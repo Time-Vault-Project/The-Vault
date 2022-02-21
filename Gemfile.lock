@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/Time-Vault-Project/Journal.git
+  revision: 353e86d028276d299241357fa11abacb93bd7051
+  specs:
+    journal (0.1.0)
+      rails (>= 7.0.2.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -192,6 +199,7 @@ DEPENDENCIES
   cssbundling-rails
   debug
   jbuilder
+  journal!
   jsbundling-rails
   pg (~> 1.1)
   puma (~> 5.0)
